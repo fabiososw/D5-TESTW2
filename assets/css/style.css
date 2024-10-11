@@ -84,6 +84,7 @@ main {
   margin: 5px;
   width: calc(25% - 15px);
   vertical-align: top;
+  text-align: center;
   box-sizing: border-box;
 }
 .fotoSingola img {
